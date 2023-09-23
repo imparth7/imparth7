@@ -19,7 +19,7 @@ You'll find a collection of my projects and contributions. I believe in the powe
 - **`React Native:`** I have achieved several milestones and continue learning. Successful Mobile App Deployments, UI/UX Design Implementation, Integration with Native Modules, Handling Device Compatibility, and Continuous Learning and Updates.
 - **`JavaScript:`** I have achieved numerous accomplishments and milestones like Robust Web Applications, Cross-Browser Compatibility, Optimized Performance, API Integration and User Integration Responsive Design.
 - **`Python:`** I have continued to learn Python and implement it in life. I am very excited about creating automation things with Python.
-- **`Figma:`** I am also a good designer. I am designing for my projects and as my hobby. I created many designs.
+- **`Figma:`** I am also a good designer. I am designing for my projects and as my hobby. I created many designs. To discuss your design project and get a personalized quote, reach out to me. I look forward to hearing from you and bringing your vision to life.
 
 ## Get in Touch
 
